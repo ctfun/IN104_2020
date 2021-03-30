@@ -1,7 +1,7 @@
-# IN104_2020
+# IN104_2021
 Ensta Paritech IN104 Project
 
-# Project 10: Build a navigation app for your phone
+# Project 6: Build a navigation app for your phone
 Contact: stephen.creff@gmail.com
 
 # Project description
@@ -31,4 +31,6 @@ Package & deploy your app on the targeted OS.
 A python framework: https://kivy.org/#home
 A java framework: https://www.codenameone.com/
 Other framework, with combination of many languages i.e., HTML5, JavaScript, and CSS and Cordova wrapper: https://ionicframework.com/
+The React Native framework from Facebook (https://reactnative.dev/)
+Some specific IOS, like SwiftUI (https://developer.apple.com/xcode/swiftui/)
 
