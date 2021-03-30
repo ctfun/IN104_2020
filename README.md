@@ -1,4 +1,4 @@
-# IN104_2021
+# IN104_2020-2021
 Ensta Paritech IN104 Project
 
 # Project 6: Build a navigation app for your phone
