@@ -34,3 +34,7 @@ Other framework, with combination of many languages i.e., HTML5, JavaScript, and
 The React Native framework from Facebook (https://reactnative.dev/)
 Some specific IOS, like SwiftUI (https://developer.apple.com/xcode/swiftui/)
 
+# Group6 summary to fill up
+https://docs.google.com/spreadsheets/d/1nhSrjQ31OR2RH0jRODLhLFLKzn4R7CPw0hbZWJo1zSY/edit?usp=sharing
+
+
